@@ -25,7 +25,7 @@ I'm a student at [Warren College!] (https://warren.ucsd.edu)
 3. next after that
 
 - [x] enroll in cse 110
-- [] pass cse 110
-- [] get job
-- [] profit???
+- [ ]pass cse 110
+- [ ] get job
+- [ ] profit???
 
