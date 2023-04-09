@@ -12,7 +12,7 @@ I'm a student at [Warren College!](https://warren.ucsd.edu)
 
 ## Cool Stuff
 
-![Picture of Cats](AlvaroRamos44.github.io/cats.jpg)
+![Picture of Cats](/AlvaroRamos44.github.io/cats.jpg)
 
 [Something in this repo]()
 
