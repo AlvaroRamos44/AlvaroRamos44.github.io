@@ -12,7 +12,7 @@ I'm a student at [Warren College!](https://warren.ucsd.edu)
 
 ## Cool Stuff
 
-![Picture of Cats](https://bashify.io/img/67fd287384706fa23b2632410151d171)
+![Picture of Cats](AlvaroRamos44.github.io/cats.jpg)
 
 [Something in this repo]()
 
