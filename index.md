@@ -24,7 +24,9 @@ Examples of quoted code for Part 3 of Lab 1:
 **PL I have knowledge of:**
 1. C++
 2. Java
+
 Coming from community college, these are the languages I've been exposed to, which might be less than other students. 
+
 I have some surface level knowledge of other PL but I hope my existing experience will make adopting new tools easy!
 
 ### Interests
@@ -46,8 +48,3 @@ A link to the [README](README.md) in the repo so you can link back and forth.
 - [ ] ???
 - [ ] get job
 - [ ] profit!!!
-
-**An ordered list**
-1. start of ordered list
-2. next 
-3. next after 
