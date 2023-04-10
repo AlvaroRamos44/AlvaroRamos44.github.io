@@ -40,11 +40,10 @@ I have some surface level knowledge of other PL but I hope my existing experienc
 **A couple of cats**
 ![Picture of Cats](cats.jpg)
 
-A link to the [README](README.md) in the repo so you can link back and forth.
+A link to the [README](README.md) in the repo.
 
 **My hopes for CSE 110 this quarter and beyond**
 - [x] enroll in cse 110
 - [ ] pass cse 110
 - [ ] ???
-- [ ] get job
 - [ ] profit!!!
