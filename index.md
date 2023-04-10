@@ -23,8 +23,8 @@ Examples of quoted code for Part 3 of Lab:
 
 
 ### Interests
-- Running 
-* Listening to Music
++ Running 
++ Listening to Music
 + Playing video games (mostly real time strategy, rpgs, and sim racing)
 + Casual fan of NBA (Lakers) and F1 (Redbull)
 
@@ -33,13 +33,14 @@ Examples of quoted code for Part 3 of Lab:
 **A couple of cats**
 ![Picture of Cats](cats.jpg)
 
-[Something in this repo](README.md)
+A link to the [README](README.md) in the repo so you can link back and forth.
 
 **My hopes for CSE 110 this quarter and beyond**
 - [x] enroll in cse 110
-- [ ]pass cse 110
+- [ ] pass cse 110
+- [ ] ???
 - [ ] get job
-- [ ] profit???
+- [ ] profit!!!
 
 **An ordered list**
 1. start of ordered list
