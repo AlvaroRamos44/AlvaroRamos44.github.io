@@ -10,7 +10,7 @@ I'm a student at [Warren College!](https://warren.ucsd.edu)
 *Below is a piece advice often quoted but not always followed among CS majors.*
 > Start early, start often.
 
-Examples of quoted code for Part 3 of Lab:
+Examples of quoted code for Part 3 of Lab 1:
 
 `#define TRUE FALSE`
 
@@ -21,6 +21,11 @@ Examples of quoted code for Part 3 of Lab:
     return false;
  }`
 
+**PL I have knowledge of:**
+1. C++
+2. Java
+Coming from community college, these are the languages I've been exposed to, which might be less than other students. 
+I have some surface level knowledge of other PL but I hope my existing experience will make adopting new tools easy!
 
 ### Interests
 + Running 
